@@ -6,9 +6,10 @@ Thank you for your interest in contributing to the FAYOS framework! We welcome i
 
 ## 🧭 Who Can Contribute?
 
-- **Agile Coaches**: Help refine principles, roles, and implementation practices
-- **Developers**: Build tooling, templates, and automation scripts
-- **Organizational Designers**: Shape team topologies, governance models, and transformation paths
+- **Everybody with an opinion who supports the FAYOS way of thinking**: Help refine principles, roles, and implementation practices
+- **People with development experience (or great AI prompting skills)**: Build tooling, templates, and automation scripts
+- **People with Organization Design thoughts and experience**: Shape team topologies, governance models, and transformation paths
+- ***Any GenAI driven output which helps the above go faster***: Share the promps you used, the result it gave and the Ai who did the job
 
 ---
 
