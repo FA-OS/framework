@@ -52,7 +52,7 @@ FAYOS stands for **Federated AI-native Operating System for Society**. It’s a 
 
 ## 🤝  Contributing
 
-FAYOS is open source and community-driven. We welcome contributions from Agile coaches, developers, designers, and organizational leaders.
+FAYOS is open source and community-driven. We welcome contributions from everybody with an opinion who supports the FAYOS way of thinking.
 
 See `CONTRIBUTING.md` for guidelines.
 
