@@ -1,12 +1,12 @@
-# Contributing to FAYOS
+# Contributing to YottaDots
 
-Thank you for your interest in contributing to the FAYOS framework! We welcome input from Agile coaches, developers, organizational designers, and anyone passionate about AI-native transformation.
+Thank you for your interest in contributing to the YottaDots framework! We welcome input from Agile coaches, developers, organizational designers, and anyone passionate about AI-native transformation.
 
 ---
 
 ## 🧭 Who Can Contribute?
 
-- **Everybody with an opinion who supports the FAYOS way of thinking**: Help refine principles, roles, and implementation practices
+- **Everybody with an opinion who supports the YottaDots way of thinking**: Help refine principles, roles, and implementation practices
 - **People with development experience (or great AI prompting skills)**: Build tooling, templates, and automation scripts
 - **People with Organization Design thoughts and experience**: Shape team topologies, governance models, and transformation paths
 - ***Any GenAI driven output which helps the above go faster***: Share the promps you used, the result it gave and the Ai who did the job
@@ -34,7 +34,7 @@ Thank you for your interest in contributing to the FAYOS framework! We welcome i
 
 ## 🧪 Guidelines
 
-- Align with FAYOS principles: federated autonomy, AI collaboration, empiricism
+- Align with YottaDots principles: federated autonomy, AI collaboration, empiricism
 - Keep contributions modular and well-documented
 - Respect licensing and attribution
 
@@ -44,4 +44,4 @@ Thank you for your interest in contributing to the FAYOS framework! We welcome i
 
 Join the conversation on LinkedIn and contribute to discussions on implementation, tooling, and transformation.
 
-We’re excited to build FAYOS together!
+We’re excited to build YottaDots together!
