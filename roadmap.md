@@ -1,12 +1,12 @@
-# FAYOS Framework Roadmap
+# YottaDots Framework Roadmap
 
-This roadmap outlines the phased implementation and evolution of the FAYOS framework.
+This roadmap outlines the phased implementation and evolution of the YottaDots framework.
 
 ---
 
 ## Phase 0: Foundation & Readiness
 
-- Define FAYOS vision and federated contracts
+- Define YottaDots vision and federated contracts
 - Assess organizational readiness for AI-native transformation
 - Set up platform teams (Infrastructure, Security, Compliance)
 
