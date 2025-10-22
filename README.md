@@ -1,14 +1,14 @@
-# FAYOS Framework
+# YottaDots Framework
 
 **Federated AI-native Operating System for Society**
 
-FAYOS is a next-generation organizational framework designed for companies that want to be fast, adaptive, and inclusive. It empowers autonomous teams, integrates AI as a colleague, and aligns work through principle-driven governance.
+YottaDots is a next-generation organizational framework designed for companies that want to be fast, adaptive, and inclusive. It empowers autonomous teams, integrates AI as a colleague, and aligns work through principle-driven governance.
 
 ---
 
-## 🌟  What Is FAYOS?
+## 🌟  What Is YottaDots?
 
-FAYOS stands for **Federated AI-native Operating System for Society**. It’s a framework that enables organizations to:
+YottaDots stands for **Federated AI-native Operating System for Society**. It’s a framework that enables organizations to:
 
 - Operate with **federated teams** that choose their own delivery styles (Scrum, Kanban, Prince2, etc.)
 - Collaborate with **AI as a direct colleague**, not just a tool
@@ -52,7 +52,7 @@ FAYOS stands for **Federated AI-native Operating System for Society**. It’s a 
 
 ## 🤝  Contributing
 
-FAYOS is open source and community-driven. We welcome contributions from everybody with an opinion who supports the FAYOS way of thinking.
+YottaDots is open source and community-driven. We welcome contributions from everybody with an opinion who supports the YottaDots way of thinking.
 
 See `CONTRIBUTING.md` for guidelines.
 
@@ -60,8 +60,8 @@ See `CONTRIBUTING.md` for guidelines.
 
 ## 🌐  Learn More
 
-Visit the official website: www.fayos.org  
-Follow updates on LinkedIn: FAYOS on LinkedIn
+Visit the official website: www.yottadots.com  
+Follow updates on LinkedIn: YottaDots on LinkedIn
 
 ---
 
